@@ -44,7 +44,7 @@ int main (int argc , char* argv[])
     {
       if(str[i] != 0)
     {
-      printf("%lld\n",str[i]);
+      printf("%d\n",str[i]);
         }
     }
   free(str);
